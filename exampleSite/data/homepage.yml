@@ -15,7 +15,9 @@ feature:
   feature_item:
   - name: Custom Applications
     icon: ti-package
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: 'We develop sleek and modern customized applications using the latest
+      tech stack for better security. Our expertise include React, React Native and
+      Flutter applications. '
   - name: Wordpress Themes
     icon: ti-pulse
     content: We build Wordpress sites with performance and higher SEO rankings in
