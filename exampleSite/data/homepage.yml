@@ -13,17 +13,21 @@ feature:
   enable: true
   title: Something You Need To Know
   feature_item:
-  - name: Wordpress
-    icon: ti-pulse
-    content: We build Wordpress sites with performance and higher in SEO rankings
-      in mind. From desgin to deployment, let us take hassle of everything while you
-      enjoy a solid online presence.
-  - name: Object Oriented
+  - name: Custom Applications
     icon: ti-package
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: 24h Service
+  - name: Wordpress Themes
+    icon: ti-pulse
+    content: We build Wordpress sites with performance and higher SEO rankings in
+      mind. From desgin to deployment, let us take hassle of everything while you
+      enjoy a solid online presence.
+  - name: Convert to Wordpress?
     icon: ti-alarm-clock
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: We can convert your designs into SEO optimized and beautiful semantic
+      markup templates. To enhance the user experience, we use modern frontend frameworks
+      like React for better page load performance. Tired of managing content using
+      your old content management system? Let us take care of that by converting your
+      current site to Wordpress CMS.
   - name: Value For Money
     icon: ti-credit-card
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
