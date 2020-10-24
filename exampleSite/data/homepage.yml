@@ -13,9 +13,11 @@ feature:
   enable: true
   title: Something You Need To Know
   feature_item:
-  - name: Clean Code
+  - name: Wordpress
     icon: ti-pulse
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: We build Wordpress sites with performance and higher in SEO rankings
+      in mind. From desgin to deployment, let us take hassle of everything while you
+      enjoy a solid online presence.
   - name: Object Oriented
     icon: ti-package
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
