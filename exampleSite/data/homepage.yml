@@ -1,8 +1,10 @@
 ---
 banner:
-  title: Let us bring your min idea to <br> reality!
+  title: Let us bring your mini ideas to <br> reality!
   image: images/banner-art.svg
-  content: We take your mini-ideas, add some web recipes to it and make them reality.
+  content: At Five12Apps, we take your mini-ideas, add some web recipes to it and
+    make them reality. This can be your long dreamed online shop, your iphone app
+    idea or maybe you want a presence on web!
   button:
     enable: true
     label: Contact With Us
